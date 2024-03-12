@@ -1,0 +1,14 @@
+risque => catégorie: "Not getting the architecture right" => 
+    Il faut s'assurer que le logiciel permet la correcte communication avec les robots, 
+    si jamais le langage de programmation choisi ne le permet pas, 
+    il faudra changer de langage et réécrire tout le code.
+besoin non fonctionel: Ajouter un simulateur des robots.
+
+risque => catégorie: "Technical risks" => Le système peut perdre le contrôle du robot et celui-ci peut causer des dommages à l'environnement.
+
+risque => catégorie: "Technical risks" => Système peux etre affecter par des viruses ou être pirater. Il faut installer des software pour la protection du systeme
+
+
+Risque => Sécurité des informations des utilisateurs. Il faudrait encrypter les données.
+
+Risque => Utiliser les robots à mauvais escient => Il faudra s'assurer que, lors de la création de tâches, les robots ne soient pas utilisé afin de commettre de mauvais gestes.

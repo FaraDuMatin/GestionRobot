@@ -1,0 +1,9 @@
+Besoin non fonctionnel : Contrôler plusieurs robots en parallèle
+
+Besoin non fonctionnel => Faire en sorte de  gérer une large base de données. En utilisant par exemple Sql.
+
+Besoin non fonctionnel: Performance. Il faudrait un système perfomant en utilisant des algorithme efficaces.
+
+Besoin non fonctionel: Ajouter un simulateur des robots.
+
+Besoin non-fonctionnel : Il faut que le système soit accessible en tout temps pour ne pas créer de problèmes face à l'activité des robots.;

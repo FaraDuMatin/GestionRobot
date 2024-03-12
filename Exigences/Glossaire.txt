@@ -1,0 +1,38 @@
+Robot : machine qui peut être assemblé selon les besoins de l'utilisateur. Les composantes qui forment le robot 
+indiquent les fonctions possibles du robot. Un robot suit une série d'actions selon la tâche demandée.
+
+Action : séquence de contrôle de mouvement/instruction courte pour accomplir une opération de base. (e.g.: 
+émettre du son, écouter, déplacer).
+
+Composante : une partie du robot qui permet des fonctions selon le type de composantes. (e.g.: hélice permet 
+de voler, haut-parleur permet d'émettre des sons, etc.)
+
+État :  informations instantanées du robot. Ex : position, vitesse, direction, quantité de charge, état de 
+la connexion sans fil, action et tâche en cours, statut du robot, etc.
+
+CPU : puce électronique qui agit en tant que le cerveau d'un appareil électronique et acronyme anglais du terme "Central Processing Unit".
+
+UUID : chaîne de caractères alphanumériques unique utilisée afin d'identifier une entité et acronyme anglais du terme "Universally Unique Identifier".
+
+tâche : une séquence d'actions (e.g., se déplacer, diffuser des sons, parler, écouter, afficher du texte ou des graphiques) d'un robot.
+
+Flotte de robots : Un ensemble de robots appartenant à un utilisateur prêt à accomplir des tâches.
+
+Fournisseur : Personne appartenant à une entreprise qui vend des composants robotiques.
+
+Outils Robotix: Logiciel qui permet à l'utilisateur de contrôler et d'entretenir des robots et de leur assigner des tâches pour effectuer diverses tâches et de communiquer avec des fournisseurs de composants robotiques.
+
+
+Sécurisation du système: L'ensemble des méthodes utilisé pour sécuriser les informations des utilisateurs. Quelques exemples de cette pratique pourraient être la sérialisation des données ou encore l’authentification des utilisateurs.
+
+Activité : Un évènement ou les robots reçoivent des tâches à faire. Les utilisateurs participent à diverses activités avec leur flotte de robots. Quelques exemples de ces activités seraient les jeux, l’éducation et la création.
+
+Métriques : L’ensembles des données permettant d’analyser l’états de la flotte. Ces données peuvent se focaliser sur l’utilisation des ressources, la performances l’efficacité énergétique, l’état des robots etc…
+
+Utilisateur : Client utilisant l’Outil Robotix. Un utilisateur n’est pas un fournisseur. Il interagit dans la majorité des cas d’utilisations et le système est construit pour répondre à ses besoins.
+
+Memoire: composant informatique qui permet la décomposition des informations contenues dans le disque dur d'un ordinateur en fragments que le processeur peut manipuler.
+
+Conception assistée par ordinateur: la conception assistée par ordinateur, ou CAO, rassemble des outils informatiques (logiciels et matériels) qui permettent de réaliser une modélisation géométrique d'un objet afin de pouvoir simuler des tests en vue d'une fabrication.
+
+Langage de programmation: langage informatique, permettant à un être humain de décrire un algorithme sous forme du code source qui sera analysé par une machine, généralement un ordinateur.

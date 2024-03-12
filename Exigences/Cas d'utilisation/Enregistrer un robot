@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Enregistrer Robot</title>
+        <style>
+           
+        </style>
+    </head>
+
+    <body>
+        <p><b><u>Cas d'utilisation : </u></b>Enregistrer un robot </p>
+        <p><b><u>But :</u></b>Ajouter des nouveaux robots à la flotte</p>
+        <p><b><u>Prérequis:</u> </b></p>
+        <ul>
+            <li>L'utilisateur a déjà un compte.</li>
+        </ul>
+        <p><b><u>Acteurs : </u></b>Utilisateur.</p>
+        <p><b><u>Scénario principal : </u></b></p>
+        <ol>
+            <li>L'utilisateur se connecte</li>
+            <li>L'utilisateur entre le numéro de série du robot fourni par le fournisseur</li>
+            <li>Le système confirme la présence du robot</li>
+            <li>L'utilisateur identifie par un nom et un type le robot</li>
+            <li>Le système ajoute le robot à l'inventaire de l'utilisateur</li>
+        </ol>
+        <p><b><u>Scénario alternatif :</u> </b></p>
+        <ul class="alt1" >
+            <li>3.1 Le système ne trouve pas le robot.</li>
+            <li>3.2 Le système envoie un message un d'erreur.</li>
+            <li>3.3 Le système revient à l'étape 2 ou quitte.</li>
+        
+        
+    </body>
+</html>

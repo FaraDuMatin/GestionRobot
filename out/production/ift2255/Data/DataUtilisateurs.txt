@@ -1,0 +1,13 @@
+
+
+
+    private String nom;
+    private String prénom;
+    private String pseudo;
+    private String mdp;
+    private String téléphone;
+    private String mail;
+    private List <Interet> interets;
+    private String nomCompagnie;
+    private List <Utilisateur> followers;
+    private List <Utilisateur> abonnée;

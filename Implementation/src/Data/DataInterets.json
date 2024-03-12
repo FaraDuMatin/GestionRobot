@@ -1,0 +1,21 @@
+[
+  {"name": "Art"},
+  {"name": "Aventure"},
+  {"name": "Nature"},
+  {"name": "Mystère"},
+  {"name": "Créativité"},
+  {"name": "Cuisine"},
+  {"name": "Musique"},
+  {"name": "Exploration"},
+  {"name": "Découverte"},
+  {"name": "Lecture"},
+  {"name": "Danse"},
+  {"name": "Course"},
+  {"name": "Cinema"},
+  {"name": "Astronomie"},
+  {"name": "Organisation"},
+  {"name": "Utilité"},
+  {"name": "Nourriture"},
+  {"name": "Photographie"},
+  {"name": "Technologie"}
+]

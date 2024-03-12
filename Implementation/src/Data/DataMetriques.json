@@ -1,0 +1,52 @@
+[
+  {
+    "nombreDeRobotsDisponibles": 100,
+    "étatGeneral": "State 1",
+    "utilisationGlobale": 10
+  },
+  {
+    "nombreDeRobotsDisponibles": 200,
+    "étatGeneral": "State 2",
+    "utilisationGlobale": 20
+  },
+  {
+    "nombreDeRobotsDisponibles": 300,
+    "étatGeneral": "State 3",
+    "utilisationGlobale": 30
+  },
+  {
+    "nombreDeRobotsDisponibles": 400,
+    "étatGeneral": "State 4",
+    "utilisationGlobale": 40
+  },
+  {
+    "nombreDeRobotsDisponibles": 500,
+    "étatGeneral": "State 5",
+    "utilisationGlobale": 50
+  },
+  {
+    "nombreDeRobotsDisponibles": 600,
+    "étatGeneral": "State 6",
+    "utilisationGlobale": 60
+  },
+  {
+    "nombreDeRobotsDisponibles": 700,
+    "étatGeneral": "State 7",
+    "utilisationGlobale": 70
+  },
+  {
+    "nombreDeRobotsDisponibles": 800,
+    "étatGeneral": "State 8",
+    "utilisationGlobale": 80
+  },
+  {
+    "nombreDeRobotsDisponibles": 900,
+    "étatGeneral": "State 9",
+    "utilisationGlobale": 90
+  },
+  {
+    "nombreDeRobotsDisponibles": 1000,
+    "étatGeneral": "State 10",
+    "utilisationGlobale": 100
+  }
+]

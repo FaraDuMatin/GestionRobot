@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Enregistrer fournisseur</title>
+        <style>
+           
+        </style>
+    </head>
+
+    <body>
+        <p><b><u>Cas d'utilisation :</u></b>Enregistrer un fournisseur </p>
+        <p><b><u>But :</u></b>Ajouter des nouveaux fournisseur dans la base de donné</p>
+        <p><b><u>Prérequis:</u> </b></p>
+        <ul>
+            <li>Le fournisseur doit posséder une compagnie</li>
+        </ul>
+        <p><b><u>Acteurs : </u></b>Fournisseur.</p>
+        <p><b><u>Scénario principal : </u></b></p>
+        <ol>
+            <li>Le fournisseur donne son nom, son adresse, son email et son téléphone. </li>
+            <li>Le fournisseur donne le type de robot fabriqué.</li>
+            <li>Le fournisseur donne le type de composantes fabriquées</li>
+            <li>Le fournisseur donne la capacité de fabrication</li>
+            <li>Le système vérifie les informations données</li>
+            <li>Le système ajoute le fournisseur à l'environnement</li>
+        </ol>
+        <p><b><u>Scénario alternatif :</u> </b></p>
+        <ul class="alt1" >
+            <li>5.1 Les système trouve une erreur</li>
+            <li>5.2 Le système envoie un message un d'erreur.</li>
+            <li>5.3 Le scénario se termine</li>
+        
+        
+    </body>
+</html>

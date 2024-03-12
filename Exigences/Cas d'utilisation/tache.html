@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Page Title</title>
+        <style>
+           
+        </style>
+    </head>
+
+    <body>
+        <p><b>Cas d'utilisation : </b>Gestion des tâches.</p>
+        <p><b>But : </b>Pouvoir créer et assigner des tâches aux robots en fonction de leur disponibilité et compétences.</p>
+        <p><b>Préconditions : </b></p>
+        <ul>
+            <li>L'utilisateur est connecté au système Robotix.</li>
+            <li>L'utilisateur a déjà une liste de robots a gérer.</li>
+        </ul>
+        <p><b>Acteurs : </b>utilisateur et les robots .</p>
+        <p><b>Scénario principal : </b></p>
+        <ol>
+            
+            <li>L'utilisateur crée une tâche spécifique pour un robot quelconque et lui assigne un horaire de début d'activités.</li>
+            <li>Le système crée une chronologie des tâches au fur à mesure que celles-ci sont ajoutées</li>
+            <li>Le système vérifie la disponibilité des robots liés à l'utilisateur et assigne la tâche au robot spécialisé. </li>
+            <li>Les robots commencent à effectuer la tâche courante et les tâches futurs selon leur ordre chronologique.</li>
+            <li>L'utilisateur termine sa session.</li>
+            <li>Le système confirme la fin de la session.</li>
+        </ol>
+        <p><b>Scénario alternatif : </b></p>
+        <ul class="alt1" >
+            <li>1.1 L'utilisateur crée une tâche qui n'est pas réalisable avec les robots courants.</li>
+            <li>1.2 Le système affiche un message d'erreur.</li>
+            <li>1.3 Le scénario se termine.</li>
+
+        </ul>
+        <p><b>Scénario alternatif : </b></p>
+        <ul class="alt2" >
+            <li>4.1 Les robots commencent à effectuer la tâche courante en parallèle avec les autres du même horaire</li>
+            <li>4.2 Le scénario reprend à l'étape 5.</li>
+
+        </ul>
+       
+        <p><b>Postconditions : </b></p>
+        <ul>
+            <li>Le système est en veille et travaille en arrière-plan afin d'effectuer les tâches.</li>
+        </ul>
+        
+    </body>
+</html>

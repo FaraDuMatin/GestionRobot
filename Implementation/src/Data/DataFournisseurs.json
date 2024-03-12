@@ -1,0 +1,198 @@
+[
+  {
+    "nom": "Smith",
+    "mdp": "SecurePass56",
+    "adresse": "123 Main Street",
+    "mail": "david.smith@example.com",
+    "téléphone": "+1-555-987-6543",
+    "composantes": [
+      {
+      "nom": "Roues-XML",
+      "type": "Roues",
+      "prix": 100.50,
+      "description": "Roues de haute qualité pour véhicules"
+      },{
+        "nom": "Caméra-Sony100",
+        "type": "Caméra",
+        "prix": 149.75,
+        "description": "Caméra haute résolution pour la photographie semi-professionnelle"
+      },
+      {
+        "nom": "Hélice-XW",
+        "type": "Hélice",
+        "prix": 389.99,
+        "description": "Hélice d'hélicoptère miniaturisé pour l'usage professionnelle et industrielle"
+      },
+      {
+        "nom": "Intel-Xeon-E5-2690",
+        "type": "CPU",
+        "prix": 439.00,
+        "description": "Processeur de bureau haut de gamme avec 10 cœurs et 20 threads, optimisé pour les performances de jeu et les charges de travail intensives."
+      },
+      {
+        "nom": "Écran-WideView",
+        "type": "Écran",
+        "prix": 3099.99,
+        "description": "Écran 20x10 po à diffusion 4D"
+      }
+    ]
+  },
+  {
+    "nom": "Thompson",
+    "mdp": "SecretPass19",
+    "adresse": "456 Elm Avenue",
+    "mail": "emma.thompson@example.com",
+    "téléphone": "+1-555-234-5678",
+    "composantes": [
+      {
+      "nom": "Haut-parleur-JBL2",
+      "type": "Haut-parleur",
+      "prix": 89.99,
+      "description": "Haut-parleur portable avec son de qualité supérieure à son prédécesseur"
+      },
+      {
+        "nom": "Caméra-Sony150",
+        "type": "Caméra",
+        "prix": 199.75,
+        "description": "Caméra haute résolution pour la photographie professionnelle et personnelle"
+      },
+      {
+        "nom": "Micro-DJX",
+        "type": "Micro",
+        "prix": 890.99,
+        "description": "Micro haute-gamme à usage professionnelle."
+      },
+      {
+        "nom": "Bras-CLAWX",
+        "type": "Bras robotique",
+        "prix": 109.00,
+        "description": "Bras robotique avec 2 pinces pour application militaire"
+      },
+      {
+        "nom": "HOTWHEELS",
+        "type": "Roue",
+        "prix": 100000.00,
+        "description": " Meilleures roues sur le marché"
+      }
+    ]
+  },
+  {
+    "nom": "Davis",
+    "mdp": "P@ssw0rd789",
+    "adresse": "789 Oak Lane",
+    "mail": "matthew.davis@example.com",
+    "téléphone": "+1-555-876-5432",
+    "composantes": [
+      {
+      "nom": "Caméra-Sony123",
+      "type": "Caméra",
+      "prix": 249.75,
+      "description": "Caméra haute résolution pour la photographie professionnelle"
+      },
+      {
+        "nom": "Caméra-Sony10",
+        "type": "Caméra",
+        "prix": 14.75,
+        "description": "Caméra pour la photographie basique"
+      },
+      {
+        "nom": "Haut-parleur-SONY",
+        "type": "Haut-parleur",
+        "prix": 69.99,
+        "description": "Haut-parleur portable avec son de qualité adéquat"
+      },
+      {
+        "nom": "Bras-Trident",
+        "type": "Bras robotique",
+        "prix": 199.00,
+        "description": "Bras robotique avec trois pinces pour application multifonctionnelle"
+      },
+      {
+        "nom": "AMD-Ryzen-9-5900X",
+        "type": "CPU",
+        "prix": 239.00,
+        "description": " Processeur de bureau à 12 cœurs et 24 threads, offrant des performances de pointe pour la création de contenu et le multitâche"
+      }
+    ]
+  }
+    ,
+  {
+    "nom": "Wilson",
+    "mdp": "StrongPass45",
+    "adresse": "567 Pine Road",
+    "mail": "ava.wilson@example.com",
+    "téléphone": "+1-555-345-6789",
+    "composantes": [
+      {
+      "nom": "Haut-parleur-JBL",
+      "type": "Haut-parleur",
+      "prix": 59.99,
+      "description": "Haut-parleur portable avec son de qualité supérieure"
+      },
+      {
+        "nom": "Caméra-Sony150",
+        "type": "Caméra",
+        "prix": 199.75,
+        "description": "Caméra haute résolution pour la photographie professionnelle et personnelle"
+      },
+      {
+        "nom": "Micro-DJX",
+        "type": "Micro",
+        "prix": 890.99,
+        "description": "Micro haute-gamme à usage professionnelle."
+      },
+      {
+        "nom": "Bras-CLAW",
+        "type": "Bras robotique",
+        "prix": 9.00,
+        "description": "Bras robotique avec 2 pinces pour application multifonctionnelle"
+      },
+      {
+        "nom": "Qualcomm-Snapdragon-888",
+        "type": "CPU",
+        "prix": 1239.00,
+        "description": " Puce mobile phare offrant des performances élevées, des capacités 5G avancées et des fonctionnalités d'intelligence artificielle pour les smartphones"
+      }
+    ]
+  },
+  {
+    "nom": "Harris",
+    "mdp": "SafePass21",
+    "adresse": "890 Maple Court",
+    "mail": "benjamin.harris@example.com",
+    "téléphone": "+1-555-654-3210",
+    "composantes": [
+      {
+      "nom": "Bras-ROBOcop",
+      "type": "Bras robotique",
+      "prix": 199.00,
+      "description": "Bras robotique avancé pour applications industrielles et de sécurité"
+     },
+      {
+        "nom": "Caméra-Sony100",
+        "type": "Caméra",
+        "prix": 149.75,
+        "description": "Caméra haute résolution pour la photographie semi-professionnelle"
+      },
+      {
+        "nom": "Haut-parleur-JBLX",
+        "type": "Haut-parleur",
+        "prix": 89.99,
+        "description": "Haut-parleur portable avec son de qualité suprême"
+      },
+      {
+        "nom": "Bras-Trident",
+        "type": "Bras robotique",
+        "prix": 99.00,
+        "description": "Bras robotique avec trois pinces pour application multifonctionnelle"
+      },
+      {
+        "nom": "Écran-LittleView",
+        "type": "Écran",
+        "prix": 3099.99,
+        "description": "Écran 10x5 po à diffusion 2D"
+      }
+
+    ]
+  }
+]

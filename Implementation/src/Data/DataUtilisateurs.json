@@ -1,0 +1,2705 @@
+[
+  {
+    "nom": "Johnson",
+    "prenom": "Emily",
+    "pseudo": "emily.j21",
+    "mdp": "P@ssw0rd123",
+    "telephone": "+1-555-123-4567",
+    "mail": "emily.johnson@example.com",
+    "nomCompagnie": "SilverTech Solutions",
+    "activites": [
+      {
+        "nom": "Activite 1",
+        "interet": [
+          {
+            "nom": "Interet A"
+          },
+          {
+            "nom": "Interet B"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite 2",
+        "interet": [
+          {
+            "nom": "Interet C"
+          },
+          {
+            "nom": "Interet D"
+          }
+        ],
+        "statut": "en cours",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite 3",
+        "interet": [
+          {
+            "nom": "Interet E"
+          },
+          {
+            "nom": "Interet F"
+          }
+        ],
+        "statut": "terminée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite 4",
+        "interet": [
+          {
+            "nom": "Interet G"
+          },
+          {
+            "nom": "Interet H"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite 5",
+        "interet": [
+          {
+            "nom": "Interet I"
+          },
+          {
+            "nom": "Interet J"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      }
+    ],
+    "robots": [
+      {
+        "name": "Robot 1",
+        "composanteList": [
+          {
+            "nom": "Composante 1A",
+            "type": "Type A",
+            "prix": 10.99,
+            "description": "Description 1A"
+          },
+          {
+            "nom": "Composante 1B",
+            "type": "Type B",
+            "prix": 15.5,
+            "description": "Description 1B"
+          }
+        ]
+      },
+      {
+        "name": "Robot 2",
+        "composanteList": [
+          {
+            "nom": "Composante 2A",
+            "type": "Type X",
+            "prix": 12.25,
+            "description": "Description 2A"
+          },
+          {
+            "nom": "Composante 2B",
+            "type": "Type Y",
+            "prix": 9.99,
+            "description": "Description 2B"
+          }
+        ]
+      }
+    ],
+    "interets": [
+      {
+        "nom": "Art"
+      },
+      {
+        "nom": "Aventure"
+      },
+      {
+        "nom": "Nature"
+      },
+      {
+        "nom": "Mystère"
+      },
+      {
+        "nom": "Créativité"
+      },
+      {
+        "nom": "Cuisine"
+      },
+      {
+        "nom": "Musique"
+      },
+      {
+        "nom": "Exploration"
+      },
+      {
+        "nom": "Découverte"
+      },
+      {
+        "nom": "Lecture"
+      }
+    ],
+    "abonnée": [
+      {
+        "nom": "Patel",
+        "prenom": "Rahul",
+        "pseudo": "rahul.patel8",
+        "mdp": "SecurePass12",
+        "telephone": "+1-555-987-6543",
+        "mail": "rahul.patel@example.com",
+        "nomCompagnie": "Swift Solutions",
+        "interets": [
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "Évasion"
+          },
+          {
+            "nom": "Photographie"
+          }
+        ]
+      },
+      {
+        "nom": "Garcia",
+        "prenom": "Miguel",
+        "pseudo": "miguel.g75",
+        "mdp": "SafePass34",
+        "telephone": "+1-555-345-6789",
+        "mail": "miguel.garcia@example.com",
+        "nomCompagnie": "Visionary Systems",
+        "interets": [
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Nature"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Nourriture"
+          },
+          {
+            "nom": "Émotion"
+          }
+        ]
+      },
+      {
+        "nom": "Lee",
+        "prenom": "Jason",
+        "pseudo": "jason.l99",
+        "mdp": "SecretPass78",
+        "telephone": "+1-555-234-5678",
+        "mail": "jason.lee@example.com",
+        "nomCompagnie": "NovaTech Solutions",
+        "interets": [
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Évolution"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Danse"
+          },
+          {
+            "nom": "Course"
+          }
+        ]
+      }
+    ],
+    "abonnement": [
+      {
+        "nom": "Brown",
+        "prenom": "Sophia",
+        "pseudo": "sophia.b42",
+        "mdp": "SecurePass98",
+        "telephone": "+1-555-654-3210",
+        "mail": "sophia.brown@example.com",
+        "nomCompagnie": "Starlight Innovations",
+        "interets": [
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Danse"
+          },
+          {
+            "nom": "Évolution"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Créativité"
+          }
+        ]
+      },
+      {
+        "nom": "Nguyen",
+        "prenom": "Lily",
+        "pseudo": "lily.nguyen19",
+        "mdp": "P@ssw0rd321",
+        "telephone": "+1-555-456-7890",
+        "mail": "lily.nguyen@example.com",
+        "nomCompagnie": "Quantum Enterprises",
+        "interets": [
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Photographie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Patel",
+    "prenom": "Rahul",
+    "pseudo": "rahul.patel8",
+    "mdp": "SecurePass12",
+    "telephone": "+1-555-987-6543",
+    "mail": "rahul.patel@example.com",
+    "nomCompagnie": "Swift Solutions",
+    "activites": [
+      {
+        "nom": "Activite X",
+        "interet": [
+          {
+            "nom": "Interet Alpha"
+          },
+          {
+            "nom": "Interet Beta"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Y",
+        "interet": [
+          {
+            "nom": "Interet Gamma"
+          },
+          {
+            "nom": "Interet Delta"
+          }
+        ],
+        "statut": "en cours",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Z",
+        "interet": [
+          {
+            "nom": "Interet Epsilon"
+          },
+          {
+            "nom": "Interet Zeta"
+          }
+        ],
+        "statut": "terminée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite P",
+        "interet": [
+          {
+            "nom": "Interet Omega"
+          },
+          {
+            "nom": "Interet Theta"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Q",
+        "interet": [
+          {
+            "nom": "Interet Iota"
+          },
+          {
+            "nom": "Interet Kappa"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      }
+    ],
+    "robots": [
+      {
+        "name": "Robot Alpha",
+        "composanteList": [
+          {
+            "nom": "Composante A1",
+            "type": "Type X",
+            "prix": 14.99,
+            "description": "Description A1"
+          },
+          {
+            "nom": "Composante A2",
+            "type": "Type Y",
+            "prix": 18.5,
+            "description": "Description A2"
+          }
+        ]
+      },
+      {
+        "name": "Robot Beta",
+        "composanteList": [
+          {
+            "nom": "Composante B1",
+            "type": "Type Z",
+            "prix": 11.25,
+            "description": "Description B1"
+          },
+          {
+            "nom": "Composante B2",
+            "type": "Type P",
+            "prix": 9.99,
+            "description": "Description B2"
+          }
+        ]
+      }
+    ],
+    "interets": [
+      {
+        "nom": "Technologie"
+      },
+      {
+        "nom": "Course"
+      },
+      {
+        "nom": "Cinema"
+      },
+      {
+        "nom": "Organisation"
+      },
+      {
+        "nom": "Astronomie"
+      },
+      {
+        "nom": "sport"
+      },
+      {
+        "nom": "Utilité"
+      },
+      {
+        "nom": "Évasion"
+      },
+      {
+        "nom": "Photographie"
+      }
+    ],
+    "abonnée": [
+      {
+        "nom": "Sophia",
+        "prenom": "Brown",
+        "pseudo": "sophia.b42",
+        "mdp": "SecurePass98",
+        "telephone": "+1-555-654-3210",
+        "mail": "sophia.brown@example.com",
+        "nomCompagnie": "Starlight Innovations",
+        "interets": [
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Danse"
+          },
+          {
+            "nom": "Évolution"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Créativité"
+          }
+        ]
+      },
+      {
+        "nom": "Lily",
+        "prenom": "Nguyen",
+        "pseudo": "lily.nguyen19",
+        "mdp": "P@ssw0rd321",
+        "telephone": "+1-555-456-7890",
+        "mail": "lily.nguyen@example.com",
+        "nomCompagnie": "Quantum Enterprises",
+        "interets": [
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Photographie"
+          }
+        ]
+      }
+    ],
+    "abonnement": [
+      {
+        "nom": "Ethan",
+        "prenom": "Wilson",
+        "pseudo": "ethan.w17",
+        "mdp": "StrongPass21",
+        "telephone": "+1-555-789-0123",
+        "mail": "ethan.wilson@example.com",
+        "nomCompagnie": "TechNexus Solutions",
+        "interets": [
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Cuisine"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Lecture"
+          },
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Astronomie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Nguyen",
+    "prenom": "Lily",
+    "pseudo": "lily.nguyen19",
+    "mdp": "P@ssw0rd321",
+    "telephone": "+1-555-456-7890",
+    "mail": "lily.nguyen@example.com",
+    "nomCompagnie": "Quantum Enterprises",
+    "activites": [
+      {
+        "nom": "Activite Alpha",
+        "interet": [
+          {
+            "nom": "Interet X"
+          },
+          {
+            "nom": "Interet Y"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Beta",
+        "interet": [
+          {
+            "nom": "Interet Z"
+          },
+          {
+            "nom": "Interet W"
+          }
+        ],
+        "statut": "en cours",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Gamma",
+        "interet": [
+          {
+            "nom": "Interet V"
+          },
+          {
+            "nom": "Interet U"
+          }
+        ],
+        "statut": "terminée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Delta",
+        "interet": [
+          {
+            "nom": "Interet T"
+          },
+          {
+            "nom": "Interet S"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Epsilon",
+        "interet": [
+          {
+            "nom": "Interet R"
+          },
+          {
+            "nom": "Interet Q"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      }
+    ],
+    "robots": [
+      {
+        "name": "Robot Charlie",
+        "composanteList": [
+          {
+            "nom": "Composante C1",
+            "type": "Type M",
+            "prix": 21.99,
+            "description": "Description C1"
+          },
+          {
+            "nom": "Composante C2",
+            "type": "Type N",
+            "prix": 17.5,
+            "description": "Description C2"
+          }
+        ]
+      }
+    ],
+    "interets": [
+      {
+        "nom": "Créativité"
+      },
+      {
+        "nom": "Jardinage"
+      },
+      {
+        "nom": "Exploration"
+      },
+      {
+        "nom": "Musique"
+      },
+      {
+        "nom": "Aventure"
+      },
+      {
+        "nom": "JeuxVideo"
+      },
+      {
+        "nom": "Course"
+      },
+      {
+        "nom": "Découverte"
+      },
+      {
+        "nom": "Technologie"
+      },
+      {
+        "nom": "Photographie"
+      }
+    ],
+    "abonnée": [
+      {
+        "nom": "Rahul",
+        "prenom": "Patel",
+        "pseudo": "rahul.patel8",
+        "mdp": "SecurePass12",
+        "telephone": "+1-555-987-6543",
+        "mail": "rahul.patel@example.com",
+        "nomCompagnie": "Swift Solutions",
+        "interets": [
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "Évasion"
+          },
+          {
+            "nom": "Photographie"
+          }
+        ]
+      }
+    ],
+    "abonnement": []
+  },
+  {
+    "nom": "Rodriguez",
+    "prenom": "Carlos",
+    "pseudo": "carlos.r83",
+    "mdp": "StrongPass45",
+    "telephone": "+1-555-789-0123",
+    "mail": "carlos.rodriguez@example.com",
+    "nomCompagnie": "Stellar Systems",
+    "activites": [
+      {
+        "nom": "Activite Nu Prime",
+        "interet": [
+          {
+            "nom": "Interet G"
+          },
+          {
+            "nom": "Interet H"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Xi Prime",
+        "interet": [
+          {
+            "nom": "Interet I"
+          },
+          {
+            "nom": "Interet J"
+          }
+        ],
+        "statut": "en cours",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Omicron Prime",
+        "interet": [
+          {
+            "nom": "Interet K"
+          },
+          {
+            "nom": "Interet L"
+          }
+        ],
+        "statut": "terminée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Pi Prime",
+        "interet": [
+          {
+            "nom": "Interet M"
+          },
+          {
+            "nom": "Interet N"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Rho Prime",
+        "interet": [
+          {
+            "nom": "Interet O"
+          },
+          {
+            "nom": "Interet P"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      }
+    ],
+    "robots": [
+      {
+        "name": "Robot Delta",
+        "composanteList": [
+          {
+            "nom": "Composante D1",
+            "type": "Type K",
+            "prix": 11.25,
+            "description": "Description D1"
+          },
+          {
+            "nom": "Composante D2",
+            "type": "Type Q",
+            "prix": 8.99,
+            "description": "Description D2"
+          }
+        ]
+      }
+    ],
+    "interets": [
+      {
+        "nom": "Nature"
+      },
+      {
+        "nom": "Lecture"
+      },
+      {
+        "nom": "Art"
+      },
+      {
+        "nom": "Découverte"
+      },
+      {
+        "nom": "Émotion"
+      },
+      {
+        "nom": "Photographie"
+      },
+      {
+        "nom": "Organisation"
+      },
+      {
+        "nom": "Astronomie"
+      },
+      {
+        "nom": "Course"
+      },
+      {
+        "nom": "Musique"
+      }
+    ],
+    "abonnée": [],
+    "abonnement": [
+      {
+        "nom": "Wilson",
+        "prenom": "Ethan",
+        "pseudo": "ethan.w17",
+        "mdp": "StrongPass21",
+        "telephone": "+1-555-789-0123",
+        "mail": "ethan.wilson@example.com",
+        "nomCompagnie": "TechNexus Solutions",
+        "interets": [
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Cuisine"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Lecture"
+          },
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Astronomie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Lee",
+    "prenom": "Jason",
+    "pseudo": "jason.l99",
+    "mdp": "SecretPass78",
+    "telephone": "+1-555-234-5678",
+    "mail": "jason.lee@example.com",
+    "nomCompagnie": "NovaTech Solutions",
+    "activites": [
+      {
+        "nom": "Activite Zeta",
+        "interet": [
+          {
+            "nom": "Interet K"
+          },
+          {
+            "nom": "Interet L"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Theta",
+        "interet": [
+          {
+            "nom": "Interet M"
+          },
+          {
+            "nom": "Interet N"
+          }
+        ],
+        "statut": "en cours",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Iota",
+        "interet": [
+          {
+            "nom": "Interet O"
+          },
+          {
+            "nom": "Interet P"
+          }
+        ],
+        "statut": "terminée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Kappa",
+        "interet": [
+          {
+            "nom": "Interet A"
+          },
+          {
+            "nom": "Interet B"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Lambda",
+        "interet": [
+          {
+            "nom": "Interet C"
+          },
+          {
+            "nom": "Interet D"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      }
+    ],
+    "robots": [
+      {
+        "name": "Robot Echo",
+        "composanteList": [
+          {
+            "nom": "Composante E1",
+            "type": "Type R",
+            "prix": 15.99,
+            "description": "Description E1"
+          },
+          {
+            "nom": "Composante E2",
+            "type": "Type S",
+            "prix": 12.5,
+            "description": "Description E2"
+          }
+        ]
+      }
+    ],
+    "interets": [
+      {
+        "nom": "Créativité"
+      },
+      {
+        "nom": "Photographie"
+      },
+      {
+        "nom": "sport"
+      },
+      {
+        "nom": "Technologie"
+      },
+      {
+        "nom": "Exploration"
+      },
+      {
+        "nom": "Jardinage"
+      },
+      {
+        "nom": "Évolution"
+      },
+      {
+        "nom": "Musique"
+      },
+      {
+        "nom": "Danse"
+      },
+      {
+        "nom": "Course"
+      }
+    ],
+    "abonnée": [
+      {
+        "nom": "Garcia",
+        "prenom": "Miguel",
+        "pseudo": "miguel.g75",
+        "mdp": "SafePass34",
+        "telephone": "+1-555-345-6789",
+        "mail": "miguel.garcia@example.com",
+        "nomCompagnie": "Visionary Systems",
+        "interets": [
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Nature"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Nourriture"
+          },
+          {
+            "nom": "Émotion"
+          }
+        ]
+      },
+      {
+        "nom": "Lee",
+        "prenom": "Jason",
+        "pseudo": "jason.l99",
+        "mdp": "SecretPass78",
+        "telephone": "+1-555-234-5678",
+        "mail": "jason.lee@example.com",
+        "nomCompagnie": "NovaTech Solutions",
+        "interets": [
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Évolution"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Danse"
+          },
+          {
+            "nom": "Course"
+          }
+        ]
+      }
+    ],
+    "abonnement": [
+      {
+        "nom": "Wilson",
+        "prenom": "Ethan",
+        "pseudo": "ethan.w17",
+        "mdp": "StrongPass21",
+        "telephone": "+1-555-789-0123",
+        "mail": "ethan.wilson@example.com",
+        "nomCompagnie": "TechNexus Solutions",
+        "interets": [
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Cuisine"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Lecture"
+          },
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Astronomie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Williams",
+    "prenom": "Olivia",
+    "pseudo": "olivia.w21",
+    "mdp": "HiddenPass56",
+    "telephone": "+1-555-876-5432",
+    "mail": "olivia.williams@example.com",
+    "nomCompagnie": "Cybersoft Technologies",
+    "activites": [
+      {
+        "nom": "Activite Mu",
+        "interet": [
+          {
+            "nom": "Interet E"
+          },
+          {
+            "nom": "Interet F"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Nu",
+        "interet": [
+          {
+            "nom": "Interet G"
+          },
+          {
+            "nom": "Interet H"
+          }
+        ],
+        "statut": "en cours",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Xi",
+        "interet": [
+          {
+            "nom": "Interet I"
+          },
+          {
+            "nom": "Interet J"
+          }
+        ],
+        "statut": "terminée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Omicron",
+        "interet": [
+          {
+            "nom": "Interet K"
+          },
+          {
+            "nom": "Interet L"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Pi",
+        "interet": [
+          {
+            "nom": "Interet M"
+          },
+          {
+            "nom": "Interet N"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      }
+    ],
+    "robots": [
+      {
+        "name": "Robot Juliet",
+        "composanteList": [
+          {
+            "nom": "Composante J1",
+            "type": "Type F",
+            "prix": 12.99,
+            "description": "Description J1"
+          },
+          {
+            "nom": "Composante J2",
+            "type": "Type G",
+            "prix": 9.25,
+            "description": "Description J2"
+          }
+        ]
+      }
+    ],
+    "interets": [
+      {
+        "nom": "Voyage"
+      },
+      {
+        "nom": "Cuisine"
+      },
+      {
+        "nom": "Astronomie"
+      },
+      {
+        "nom": "Organisation"
+      },
+      {
+        "nom": "Utilité"
+      },
+      {
+        "nom": "Course"
+      },
+      {
+        "nom": "Aventure"
+      },
+      {
+        "nom": "Créativité"
+      },
+      {
+        "nom": "Cinema"
+      },
+      {
+        "nom": "Découverte"
+      }
+    ],
+    "abonnée": [
+      {
+        "nom": "Garcia",
+        "prenom": "Miguel",
+        "pseudo": "miguel.g75",
+        "mdp": "SafePass34",
+        "telephone": "+1-555-345-6789",
+        "mail": "miguel.garcia@example.com",
+        "nomCompagnie": "Visionary Systems",
+        "interets": [
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Nature"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Nourriture"
+          },
+          {
+            "nom": "Émotion"
+          }
+        ]
+      },
+      {
+        "nom": "Williams",
+        "prenom": "Olivia",
+        "pseudo": "olivia.w21",
+        "mdp": "HiddenPass56",
+        "telephone": "+1-555-876-5432",
+        "mail": "olivia.williams@example.com",
+        "nomCompagnie": "Cybersoft Technologies",
+        "interets": [
+          {
+            "nom": "Voyage"
+          },
+          {
+            "nom": "Cuisine"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Découverte"
+          }
+        ]
+      }
+    ],
+    "abonnement": []
+  },
+  {
+    "nom": "Garcia",
+    "prenom": "Miguel",
+    "pseudo": "miguel.g75",
+    "mdp": "SafePass34",
+    "telephone": "+1-555-345-6789",
+    "mail": "miguel.garcia@example.com",
+    "nomCompagnie": "Visionary Systems",
+    "activites": [
+      {
+        "nom": "Activite Rho",
+        "interet": [
+          {
+            "nom": "Interet O"
+          },
+          {
+            "nom": "Interet P"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Sigma",
+        "interet": [
+          {
+            "nom": "Interet A"
+          },
+          {
+            "nom": "Interet B"
+          }
+        ],
+        "statut": "en cours",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Tau",
+        "interet": [
+          {
+            "nom": "Interet C"
+          },
+          {
+            "nom": "Interet D"
+          }
+        ],
+        "statut": "terminée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Upsilon",
+        "interet": [
+          {
+            "nom": "Interet E"
+          },
+          {
+            "nom": "Interet F"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Phi",
+        "interet": [
+          {
+            "nom": "Interet G"
+          },
+          {
+            "nom": "Interet H"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      }
+    ],
+    "robots": [
+      {
+        "name": "Robot Foxtrot",
+        "composanteList": [
+          {
+            "nom": "Composante F1",
+            "type": "Type T",
+            "prix": 19.99,
+            "description": "Description F1"
+          },
+          {
+            "nom": "Composante F2",
+            "type": "Type U",
+            "prix": 16.5,
+            "description": "Description F2"
+          }
+        ]
+      }
+    ],
+    "interets": [
+      {
+        "nom": "Art"
+      },
+      {
+        "nom": "Musique"
+      },
+      {
+        "nom": "sport"
+      },
+      {
+        "nom": "Technologie"
+      },
+      {
+        "nom": "JeuxVideo"
+      },
+      {
+        "nom": "Jardinage"
+      },
+      {
+        "nom": "Nature"
+      },
+      {
+        "nom": "Photographie"
+      },
+      {
+        "nom": "Nourriture"
+      },
+      {
+        "nom": "Émotion"
+      }
+    ],
+    "abonnée": [
+      {
+        "nom": "Brown",
+        "prenom": "Sophia",
+        "pseudo": "sophia.b42",
+        "telephone": "+1-555-654-3210",
+        "mail": "sophia.brown@example.com",
+        "nomCompagnie": "Starlight Innovations",
+        "interets": [
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Danse"
+          },
+          {
+            "nom": "Évolution"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Créativité"
+          }
+        ]
+      },
+      {
+        "nom": "Williams",
+        "prenom": "Olivia",
+        "pseudo": "olivia.w21",
+        "telephone": "+1-555-876-5432",
+        "mail": "olivia.williams@example.com",
+        "nomCompagnie": "Cybersoft Technologies",
+        "interets": [
+          {
+            "nom": "Voyage"
+          },
+          {
+            "nom": "Cuisine"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Découverte"
+          }
+        ]
+      }
+    ],
+    "abonnement": [
+      {
+        "nom": "Garcia",
+        "prenom": "Miguel",
+        "pseudo": "miguel.g75",
+        "telephone": "+1-555-345-6789",
+        "mail": "miguel.garcia@example.com",
+        "nomCompagnie": "Visionary Systems",
+        "interets": [
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Nature"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Nourriture"
+          },
+          {
+            "nom": "Émotion"
+          }
+        ]
+      },
+      {
+        "nom": "Wilson",
+        "prenom": "Ethan",
+        "pseudo": "ethan.w17",
+        "telephone": "+1-555-789-0123",
+        "mail": "ethan.wilson@example.com",
+        "nomCompagnie": "TechNexus Solutions",
+        "interets": [
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Cuisine"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Lecture"
+          },
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Astronomie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Brown",
+    "prenom": "Sophia",
+    "pseudo": "sophia.b42",
+    "mdp": "SecurePass98",
+    "telephone": "+1-555-654-3210",
+    "mail": "sophia.brown@example.com",
+    "nomCompagnie": "Starlight Innovations",
+    "activites": [
+      {
+        "nom": "Activite Chi",
+        "interet": [
+          {
+            "nom": "Interet I"
+          },
+          {
+            "nom": "Interet J"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Psi",
+        "interet": [
+          {
+            "nom": "Interet K"
+          },
+          {
+            "nom": "Interet L"
+          }
+        ],
+        "statut": "en cours",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Omega",
+        "interet": [
+          {
+            "nom": "Interet M"
+          },
+          {
+            "nom": "Interet N"
+          }
+        ],
+        "statut": "terminée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Alpha Prime",
+        "interet": [
+          {
+            "nom": "Interet O"
+          },
+          {
+            "nom": "Interet P"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Beta Prime",
+        "interet": [
+          {
+            "nom": "Interet A"
+          },
+          {
+            "nom": "Interet B"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      }
+    ],
+    "robots": [
+      {
+        "name": "Robot Golf",
+        "composanteList": [
+          {
+            "nom": "Composante G1",
+            "type": "Type V",
+            "prix": 10.25,
+            "description": "Description G1"
+          },
+          {
+            "nom": "Composante G2",
+            "type": "Type W",
+            "prix": 7.99,
+            "description": "Description G2"
+          }
+        ]
+      }
+    ],
+    "interets": [
+      {
+        "nom": "Exploration"
+      },
+      {
+        "nom": "Danse"
+      },
+      {
+        "nom": "Évolution"
+      },
+      {
+        "nom": "Jardinage"
+      },
+      {
+        "nom": "Musique"
+      },
+      {
+        "nom": "Course"
+      },
+      {
+        "nom": "JeuxVideo"
+      },
+      {
+        "nom": "Astronomie"
+      },
+      {
+        "nom": "Photographie"
+      },
+      {
+        "nom": "Créativité"
+      }
+    ],
+    "abonnée": [
+      {
+        "nom": "Williams",
+        "prenom": "Olivia",
+        "pseudo": "olivia.w21",
+        "telephone": "+1-555-876-5432",
+        "mail": "olivia.williams@example.com",
+        "nomCompagnie": "Cybersoft Technologies",
+        "interets": [
+          {
+            "nom": "Voyage"
+          },
+          {
+            "nom": "Cuisine"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Découverte"
+          }
+        ]
+      },
+      {
+        "nom": "Nguyen",
+        "prenom": "Lily",
+        "pseudo": "lily.nguyen19",
+        "telephone": "+1-555-456-7890",
+        "mail": "lily.nguyen@example.com",
+        "nomCompagnie": "Quantum Enterprises",
+        "interets": [
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Photographie"
+          }
+        ]
+      },
+      {
+        "nom": "Lee",
+        "prenom": "Jason",
+        "pseudo": "jason.l99",
+        "telephone": "+1-555-234-5678",
+        "mail": "jason.lee@example.com",
+        "nomCompagnie": "NovaTech Solutions",
+        "interets": [
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Évolution"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Danse"
+          },
+          {
+            "nom": "Course"
+          }
+        ]
+      }
+    ],
+    "abonnement": [
+      {
+        "nom": "Wilson",
+        "prenom": "Ethan",
+        "pseudo": "ethan.w17",
+        "telephone": "+1-555-789-0123",
+        "mail": "ethan.wilson@example.com",
+        "nomCompagnie": "TechNexus Solutions",
+        "interets": [
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Cuisine"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Lecture"
+          },
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Astronomie"
+          }
+        ]
+      },
+      {
+        "nom": "Brown",
+        "prenom": "Sophia",
+        "pseudo": "sophia.b42",
+        "telephone": "+1-555-654-3210",
+        "mail": "sophia.brown@example.com",
+        "nomCompagnie": "Starlight Innovations",
+        "interets": [
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Danse"
+          },
+          {
+            "nom": "Évolution"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Créativité"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Wilson",
+    "prenom": "Ethan",
+    "pseudo": "ethan.w17",
+    "mdp": "StrongPass21",
+    "telephone": "+1-555-789-0123",
+    "mail": "ethan.wilson@example.com",
+    "nomCompagnie": "TechNexus Solutions",
+    "activites": [
+      {
+        "nom": "Activite Gamma Prime",
+        "interet": [
+          {
+            "nom": "Interet C"
+          },
+          {
+            "nom": "Interet D"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Delta Prime",
+        "interet": [
+          {
+            "nom": "Interet E"
+          },
+          {
+            "nom": "Interet F"
+          }
+        ],
+        "statut": "en cours",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Epsilon Prime",
+        "interet": [
+          {
+            "nom": "Interet G"
+          },
+          {
+            "nom": "Interet H"
+          }
+        ],
+        "statut": "terminée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Zeta Prime",
+        "interet": [
+          {
+            "nom": "Interet I"
+          },
+          {
+            "nom": "Interet J"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Eta",
+        "interet": [
+          {
+            "nom": "Interet K"
+          },
+          {
+            "nom": "Interet L"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      }
+    ],
+    "robots": [
+      {
+        "name": "Robot Hotel",
+        "composanteList": [
+          {
+            "nom": "Composante H1",
+            "type": "Type O",
+            "prix": 14.99,
+            "description": "Description H1"
+          },
+          {
+            "nom": "Composante H2",
+            "type": "Type Z",
+            "prix": 9.5,
+            "description": "Description H2"
+          }
+        ]
+      }
+    ],
+    "interets": [
+      {
+        "nom": "Cinema"
+      },
+      {
+        "nom": "Cuisine"
+      },
+      {
+        "nom": "Organisation"
+      },
+      {
+        "nom": "Aventure"
+      },
+      {
+        "nom": "Découverte"
+      },
+      {
+        "nom": "Utilité"
+      },
+      {
+        "nom": "JeuxVideo"
+      },
+      {
+        "nom": "Lecture"
+      },
+      {
+        "nom": "Art"
+      },
+      {
+        "nom": "Astronomie"
+      }
+    ],
+    "abonnée": [],
+    "abonnement": [
+      {
+        "nom": "Brown",
+        "prenom": "Sophia",
+        "pseudo": "sophia.b42",
+        "telephone": "+1-555-654-3210",
+        "mail": "sophia.brown@example.com",
+        "nomCompagnie": "Starlight Innovations",
+        "interets": [
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Danse"
+          },
+          {
+            "nom": "Évolution"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Créativité"
+          }
+        ]
+      },
+      {
+        "nom": "Nguyen",
+        "prenom": "Lily",
+        "pseudo": "lily.nguyen19",
+        "telephone": "+1-555-456-7890",
+        "mail": "lily.nguyen@example.com",
+        "nomCompagnie": "Quantum Enterprises",
+        "interets": [
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Photographie"
+          }
+        ]
+      },
+      {
+        "nom": "Wilson",
+        "prenom": "Ethan",
+        "pseudo": "ethan.w17",
+        "telephone": "+1-555-789-0123",
+        "mail": "ethan.wilson@example.com",
+        "nomCompagnie": "TechNexus Solutions",
+        "interets": [
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Cuisine"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Lecture"
+          },
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Astronomie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Anderson",
+    "prenom": "Mia",
+    "pseudo": "mia.a23",
+    "mdp": "SecretPass09",
+    "telephone": "+1-555-432-1098",
+    "mail": "mia.anderson@example.com",
+    "nomCompagnie": "DigitalByte Technologies",
+    "activites": [
+      {
+        "nom": "Activite Theta Prime",
+        "interet": [
+          {
+            "nom": "Interet M"
+          },
+          {
+            "nom": "Interet N"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Iota Prime",
+        "interet": [
+          {
+            "nom": "Interet O"
+          },
+          {
+            "nom": "Interet P"
+          }
+        ],
+        "statut": "en cours",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Kappa Prime",
+        "interet": [
+          {
+            "nom": "Interet A"
+          },
+          {
+            "nom": "Interet B"
+          }
+        ],
+        "statut": "terminée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Lambda Prime",
+        "interet": [
+          {
+            "nom": "Interet C"
+          },
+          {
+            "nom": "Interet D"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      },
+      {
+        "nom": "Activite Mu Prime",
+        "interet": [
+          {
+            "nom": "Interet E"
+          },
+          {
+            "nom": "Interet F"
+          }
+        ],
+        "statut": "non débutée",
+        "point": 0.0
+      }
+    ],
+    "robots": [
+      {
+        "name": "Robot India",
+        "composanteList": [
+          {
+            "nom": "Composante I1",
+            "type": "Type D",
+            "prix": 16.99,
+            "description": "Description I1"
+          },
+          {
+            "nom": "Composante I2",
+            "type": "Type E",
+            "prix": 13.5,
+            "description": "Description I2"
+          }
+        ]
+      }
+    ],
+    "interets": [
+      {
+        "nom": "Créativité"
+      },
+      {
+        "nom": "Course"
+      },
+      {
+        "nom": "Photographie"
+      },
+      {
+        "nom": "Jardinage"
+      },
+      {
+        "nom": "Musique"
+      },
+      {
+        "nom": "Technologie"
+      },
+      {
+        "nom": "sport"
+      },
+      {
+        "nom": "Astronomie"
+      },
+      {
+        "nom": "Découverte"
+      },
+      {
+        "nom": "Nature"
+      }
+    ],
+    "abonnée": [
+      {
+        "nom": "Patel",
+        "prenom": "Rahul",
+        "pseudo": "rahul.patel8",
+        "telephone": "+1-555-987-6543",
+        "mail": "rahul.patel@example.com",
+        "nomCompagnie": "Swift Solutions",
+        "interets": [
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "Évasion"
+          },
+          {
+            "nom": "Photographie"
+          }
+        ]
+      },
+      {
+        "nom": "Brown",
+        "prenom": "Sophia",
+        "pseudo": "sophia.b42",
+        "telephone": "+1-555-654-3210",
+        "mail": "sophia.brown@example.com",
+        "nomCompagnie": "Starlight Innovations",
+        "interets": [
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Danse"
+          },
+          {
+            "nom": "Évolution"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Créativité"
+          }
+        ]
+      },
+      {
+        "nom": "Garcia",
+        "prenom": "Miguel",
+        "pseudo": "miguel.g75",
+        "telephone": "+1-555-345-6789",
+        "mail": "miguel.garcia@example.com",
+        "nomCompagnie": "Visionary Systems",
+        "interets": [
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Nature"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Nourriture"
+          },
+          {
+            "nom": "Émotion"
+          }
+        ]
+      },
+      {
+        "nom": "Nguyen",
+        "prenom": "Lily",
+        "pseudo": "lily.nguyen19",
+        "telephone": "+1-555-456-7890",
+        "mail": "lily.nguyen@example.com",
+        "nomCompagnie": "Quantum Enterprises",
+        "interets": [
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Photographie"
+          }
+        ]
+      },
+      {
+        "nom": "Lee",
+        "prenom": "Jason",
+        "pseudo": "jason.l99",
+        "telephone": "+1-555-234-5678",
+        "mail": "jason.lee@example.com",
+        "nomCompagnie": "NovaTech Solutions",
+        "interets": [
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "Exploration"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Évolution"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Danse"
+          },
+          {
+            "nom": "Course"
+          }
+        ]
+      }
+    ],
+    "abonnement": [
+      {
+        "nom": "Wilson",
+        "prenom": "Ethan",
+        "pseudo": "ethan.w17",
+        "telephone": "+1-555-789-0123",
+        "mail": "ethan.wilson@example.com",
+        "nomCompagnie": "TechNexus Solutions",
+        "interets": [
+          {
+            "nom": "Cinema"
+          },
+          {
+            "nom": "Cuisine"
+          },
+          {
+            "nom": "Organisation"
+          },
+          {
+            "nom": "Aventure"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Utilité"
+          },
+          {
+            "nom": "JeuxVideo"
+          },
+          {
+            "nom": "Lecture"
+          },
+          {
+            "nom": "Art"
+          },
+          {
+            "nom": "Astronomie"
+          }
+        ]
+      },
+      {
+        "nom": "Anderson",
+        "prenom": "Mia",
+        "pseudo": "mia.a23",
+        "telephone": "+1-555-432-1098",
+        "mail": "mia.anderson@example.com",
+        "nomCompagnie": "DigitalByte Technologies",
+        "interets": [
+          {
+            "nom": "Créativité"
+          },
+          {
+            "nom": "Course"
+          },
+          {
+            "nom": "Photographie"
+          },
+          {
+            "nom": "Jardinage"
+          },
+          {
+            "nom": "Musique"
+          },
+          {
+            "nom": "Technologie"
+          },
+          {
+            "nom": "sport"
+          },
+          {
+            "nom": "Astronomie"
+          },
+          {
+            "nom": "Découverte"
+          },
+          {
+            "nom": "Nature"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>S'inscrire dans le système comme utilisateur</title>
+        <style>
+           
+        </style>
+    </head>
+
+    <body>
+        <p><b><u>Cas d'utilisation :</u></b>S'inscrire dans le système comme utilisateur</p>
+        <p><b><u>But :</u></b>Inscription de l'utilisateur dans le système</p>
+        <p><b><u>Prérequis:</u> </b></p>
+        <ul>
+            <li>L'utilisateur doit avoir un adresse courriel</li>
+            <li>L'utilisateur doit avoir un numéro de téléphone</li>
+            <li>L'utilisateur doit etre avec une compagnie</li>
+            <li>L'utilisateur doit avoir le système Robotix</li>
+        </ul>
+        <p><b><u>Acteurs : </u></b>L'utilisateur</p>
+        <p><b><u>Scénario principal : </u></b></p>
+        <ol>
+            <li>L'utilisateur ouvre l'application Robotix </li>
+            <li>L'utilisateur choisis de s'inscrire dans le système</li>
+            <li>L'utilisateur donne son nom & prénom</li>
+            <li>L'utilisateur donne son adresse courriel & son numéro de téléphone</li>
+            <li>L'utilisateur donne le nom de son compagnie affiliée</li>
+            <li>Le système vérifie la validité des informations</li>
+            <li>Le système envoie une confirmation à l'adresse courriel</li>
+            <li>L'utilisateur accept la confirmation</li>
+            <li>Le système crée le compte pour l'utilisateur</li>
+        </ol>
+        <p><b><u>Scénario alternatif :</u> </b></p>
+        <ul class="alt1" >
+            <li>2.1 L'utilisateur décide de se connecter dans son compte </li>
+        </ul>
+        <ul class="alt2" >
+            <li>6.1 Le système envoie un message un d'erreur</li>
+            <li>6.1a L'utilisateur n'insère pas de nom</li>
+            <li>6.1b L'utilisateur n'insère pas de prénom</li>
+            <li>6.1c L'utilisateur insère un adresse courriel invalide</li>
+            <li>6.1c L'utilisateur insère un numéro de téléphone invalide</li>
+            <li>6.2 Retour à l'étape 2</li>
+        </ul>
+        <ul class="alt3" >
+            <li>8.1 L'utilisateur n'accept pas la confirmation</li>
+            <li>8.1a Retour à l'étape 1</li>
+        </ul>
+        
+    </body>
+</html>
